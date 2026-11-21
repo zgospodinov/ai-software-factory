@@ -1,0 +1,8 @@
+{
+  "name": "gdev-ui",
+  "displayName": "gospodinov.dev AI-DLC — UI",
+  "version": "0.2.1",
+  "license": "MIT",
+  "description": "Claude Desktop UI for gospodinov.dev AI-DLC: live board pane, sprint band above the prompt, status line.",
+  "types": "./types/index.d.ts"
+}

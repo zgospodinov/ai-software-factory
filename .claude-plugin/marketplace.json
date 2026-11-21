@@ -1,0 +1,17 @@
+{
+  "name": "gospodinov-dev-ai-dlc",
+  "owner": { "name": "gospodinov.dev" },
+  "metadata": { "description": "gospodinov.dev AI-DLC — lightweight AI-SDLC product management for solo developers" },
+  "plugins": [
+    {
+      "name": "gdev",
+      "source": "./plugins/gdev",
+      "description": "gospodinov.dev AI-DLC — solo-dev product management: idea → brief → roadmap → epics → stories → refinement → sprints → build, bugs, and automatic status tracking from git."
+    },
+    {
+      "name": "gdev-ui",
+      "source": "./plugins/gdev-ui",
+      "description": "gospodinov.dev AI-DLC UI for Claude Desktop: board pane, sprint band above the prompt, status line."
+    }
+  ]
+}
