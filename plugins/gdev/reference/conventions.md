@@ -51,6 +51,7 @@ P0 now/interrupt · P1 this sprint/next · P2 normal · P3 nice to have. Order w
 |---|---|---|
 | Discover / plan | `/gdev:plan` | product brief, epics, roadmap |
 | Define | `/gdev:stories`, `/gdev:bug` | specs with AC + AI context |
+| Design | `/gdev:design`, `designer` agent | design systems, screens per story, framework themes (`reference/design.md`) |
 | Refine | `/gdev:refine` | items that pass DoR, estimated, split |
 | Plan iteration | `/gdev:sprint` | sprint goal + commitment within capacity |
 | Build & verify | `/gdev:build` | branch, implementation per spec, tests, DoD |

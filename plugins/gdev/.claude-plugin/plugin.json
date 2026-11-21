@@ -1,8 +1,8 @@
 {
   "name": "gdev",
   "displayName": "gospodinov.dev AI-DLC",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "license": "MIT",
-  "description": "Lightweight, token-lean product management for a solo software engineer (AI-SDLC): planning, stories, refinement, sprints, bugs, roadmap, auto-tracking.",
-  "keywords": ["product-management", "scrum", "kanban", "ai-sdlc", "user-stories"]
+  "description": "Lightweight, token-lean product management for a solo software engineer (AI-SDLC): planning, stories, refinement, sprints, bugs, roadmap, auto-tracking, UI/UX design systems and screens.",
+  "keywords": ["product-management", "scrum", "kanban", "ai-sdlc", "user-stories", "design-system", "ui-ux"]
 }

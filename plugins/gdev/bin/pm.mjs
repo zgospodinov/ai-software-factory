@@ -7,7 +7,7 @@ import path from 'node:path'
 import { execFileSync } from 'node:child_process'
 import { fileURLToPath } from 'node:url'
 
-const VERSION = '0.2.4'
+const VERSION = '0.2.5'
 const STATUSES = ['idea', 'backlog', 'ready', 'doing', 'review', 'done', 'dropped']
 const OPEN = ['backlog', 'ready', 'doing', 'review']
 const TYPES = ['epic', 'story', 'bug', 'spike', 'chore']
