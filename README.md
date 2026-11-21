@@ -11,8 +11,9 @@
 ## Инсталация (веднъж, работи за всички проекти)
 
 ```powershell
-claude plugin marketplace add C:\F\code\ai-software-factory
+claude plugin marketplace add zgospodinov/ai-software-factory
 ```
+(или от локално копие: `claude plugin marketplace add C:\F\code\ai-software-factory`)
 ```powershell
 claude plugin install gdev@gospodinov-dev-ai-dlc
 ```
